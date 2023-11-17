@@ -22,6 +22,7 @@ Use `.example.env` to enter your shop name and access token. Access token can be
 2. Populate the desired resource json(s) with data in `/resources` folder. More info:
 
 https://shopify.dev/docs/api/admin-rest/2023-10/resources/product#resource-object
+
 https://shopify.dev/docs/api/admin-rest/2023-10/resources/article#resource-object
 
 For images, you can use `src` or base64 strings, as attachment, for example:
